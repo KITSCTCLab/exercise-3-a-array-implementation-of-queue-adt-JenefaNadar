@@ -56,7 +56,7 @@ class Solution:
 
     def push_character(self, character):
         """
-        Push the character to stack, if stack is not full.
+        Push the character to stack, if stack isn't full.
         Arguments:
             character: A character that will be pushed to the stack.
         """
